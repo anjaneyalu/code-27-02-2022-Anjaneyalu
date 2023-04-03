@@ -1,4 +1,5 @@
 ## calculate BMI and count the number of people who are Overweight
+import pandas pd
 import json
 import argparse
 import time
