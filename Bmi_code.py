@@ -1,6 +1,4 @@
 ## calculate BMI and count the number of people who are Overweight
-#import pandas as pd
-#Code changes testing
 import json
 import argparse
 import time
@@ -44,5 +42,3 @@ if __name__ == "__main__":
     calculate_bmi(data)
     end = time.time()
     print(f"Runtime of the program is {end - start}")
-
-# Code changes completed.
