@@ -42,3 +42,4 @@ if __name__ == "__main__":
     calculate_bmi(data)
     end = time.time()
     print(f"Runtime of the program is {end - start}")
+# git changes
